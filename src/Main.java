@@ -9,11 +9,9 @@ public class Main {
         int x = sc.nextInt();
         System.out.println("Введите второе число");
         int y = sc.nextInt();
-        System.out.println("Сумма равна "+(x + y));
-        System.out.println("Разность равна "+(x - y));
-        System.out.println("Произведение равно "+(x * y));
-        System.out.println("Частное равно "+(x / y));
-
-
+        System.out.println("Сумма равна " + (x + y));
+        System.out.println("Разность равна " + (x - y));
+        System.out.println("Произведение равно " + (x * y));
+        System.out.println("Частное равно " + (x / y));
     }
 }
